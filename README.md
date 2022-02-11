@@ -23,6 +23,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - React Native
 - Expo
 - React navigation
+- Axios
+- Nodejs
+- Expressjs
 
 ## 💻 Projeto
 
